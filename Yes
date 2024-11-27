@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tier List of Characters</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+        }
+        .tier {
+            background-color: #444;
+            color: white;
+            margin-bottom: 20px;
+            padding: 15px;
+            border-radius: 8px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .tier h2 {
+            margin: 0;
+            font-size: 24px;
+        }
+        .tier p {
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Tier List of Characters in Elderion</h1>
+</header>
+
+<section>
+    <div class="tier">
+        <h2>Tier 0-A: Aeon, The Eternal Architect</h2>
+        <p><strong>Kekuatan:</strong> Aeon memiliki kontrol mutlak atas seluruh realitas dan hukum alam semesta.</p>
+        <p><strong>Kemampuan Utama:</strong> Manipulasi waktu, ruang, dan hukum alam semesta, serta penciptaan dan penghancuran dimensi.</p>
+        <p><strong>Peran:</strong> Pengatur keseimbangan dunia Elderion.</p>
+    </div>
+
+    <div class="tier">
+        <h2>Tier 0-B: Azaroth, The Shard of Creation</h2>
+        <p><strong>Kekuatan:</strong> Azaroth dapat menciptakan dan menghancurkan dunia dengan kekuatan hampir tak terbatas.</p>
+        <p><strong>Kemampuan Utama:</strong> Manipulasi ruang dan waktu, penciptaan dunia, dan penghancuran realitas.</p>
+        <p><strong>Peran:</strong> Entitas yang berfokus pada aspek destruktif dan penciptaan dunia.</p>
+    </div>
+
+    <div class="tier">
+        <h2>Tier 0-B: Eryx, The Void Herald</h2>
+        <p><strong>Kekuatan:</strong> Eryx mengendalikan kehampaan mutlak dan dapat menghapus seluruh eksistensi dalam dimensi, waktu, dan ruang.</p>
+        <p><strong>Kemampuan Utama:</strong> Manipulasi kehampaan, penghancuran realitas, pemanggilan makhluk kehampaan.</p>
+        <p><strong>Peran:</strong> Utusan dari Azaroth yang bertugas membawa kehancuran mutlak.</p>
+    </div>
+
+    <div class="tier">
+        <h2>Tier 1-A: Zephyr, The Sentinel of Aeon</h2>
+        <p><strong>Kekuatan:</strong> Sebagai penjaga Aeon, Zephyr memiliki kekuatan kosmik luar biasa.</p>
+        <p><strong>Kemampuan Utama:</strong> Manipulasi energi kosmik, kecepatan luar biasa, dan kemampuan bertarung di luar batasan waktu dan ruang.</p>
+        <p><strong>Peran:</strong> Pelindung utama dunia Elderion, melawan ancaman besar.</p>
+    </div>
+
+    <!-- Add more tiers and characters here -->
+
+</section>
+
+</body>
+</html>
